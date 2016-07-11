@@ -1,0 +1,427 @@
+body{
+		margin: 0 auto;
+		padding: 0;
+}
+
+.header{
+		margin-top:-42px; 
+		width: 100%; 
+		height: 735px;
+		background: url(Images/hero-bg.jpg) no-repeat;
+}
+.header p{ 	
+		margin-left: 465px;
+        padding-top: 270px; 
+        font-size: 42px ;
+        font-family: "Helvetica Neue" , Helvetica,Arial, sans-serif;
+        color: #353535; 
+}
+
+.header p span{
+		color:  #A1A9B0;
+}
+.header h5{ 
+		color: #959BA1;
+		font-size: 16px;
+		font-family: Monaco,Consolas,"Lucida Console";
+	 	margin-left: 440px;
+}
+
+.button{
+
+		height: 55px;
+		width: 250px;
+		background-color: #3DC9B3;
+		border-radius: 5px;
+		border-bottom: 2px solid #309383;
+		font-color:white;
+		font-size: 13px;
+		text-align: center;
+		margin-left: 555px;
+		text-decoration: none;
+}
+.button span{
+		line-height: 55px;
+		color:white;
+		font-size: 16px;
+		font-family: "Helvetica Neue" , Helvetica,Arial, sans-serif;
+}
+
+.header a{text-decoration: none;}
+
+.text{
+	width: 100%;
+	height:	392px;
+	margin-top: 735px;
+	background: #F3F5F8;
+	margin: 205px 10px 10px 0px;
+
+}
+
+.text p{
+	font-size: 16px;
+	font-color:#353535;
+	margin: 0px 0px 0px 536px;
+	padding: 100px 0px 0px 0px;
+	font-family: "Segoe UI";
+}
+
+.text h5{
+	width: 755px;
+	height: 90px;
+	margin:0px 0px 0px 300px;
+	padding: 90px 0px 0px 0px;
+	text-align: center;
+	color: #9FA5AA;
+	font-size: 15px;
+font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.text h4{
+	margin: 25px 0px 0px 555px;
+}
+
+.digital{
+	width: 100%;
+	height: 730px;
+	background-color: #FFFFFF;
+
+}
+
+.digital p{
+	font-size: 16px;
+	font-color:#353535;
+	margin: 0px 0px 0px 492px;
+	padding: 100px 0px 0px 0px;
+	font-family: "Segoe UI";
+}
+.digital h1{
+	margin: 25px 0px 0px 555px;
+}
+.digital h2{
+	margin: 67px 0px 0px 180px;
+}
+.digital h3{
+	width: 347px;
+	height: 91px;
+	margin: 10px 0px 0px 130px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+.digital h4{
+	width: 347px;
+	height: 91px;
+	margin: -90px 0px 0px 512px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+.digital h5{
+	width: 347px;
+	height: 91px;
+	margin: -90px 0px 0px 890px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+
+.iphone{
+	height: 713px;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+.iphone p{
+	height: 713px;
+	width: 649px;
+	margin: -230px 0px 0px 0px;
+
+}
+.iphone h1{
+	font-size: 16px;
+	font-color:#353535;
+	margin: -582px 0px 0px 903px;
+	font-family: "Segoe UI";
+}
+.iphone h2{
+	margin-left: 903px;
+	margin-top: 9px;
+	
+}
+.iphone h3{
+	width: 417px:; 
+	height:61px;
+	margin: 22px 132px 0px 818px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+.iphone h4{
+	width: 417px:; 
+	height:61px;
+	margin: 22px 132px 0px 818px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+
+.iphone h5{
+	width: 417px:; 
+	height:61px;
+	margin: 22px 132px 0px 818px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+}
+
+.plant {	
+		margin-top: 208px;
+		background-image: url(Images/plants-bg.png);
+		width: 100%;
+		height: 315px;
+
+	
+}
+
+.dog{
+	width: 100%;
+	height: 668px;
+	background-color: #FFFFFF;
+}
+.dog p{
+	width:1158px;
+	height: 238px;
+	margin-left: 102px;
+	padding-top: 32px;
+}	
+.dog h1{
+	width: 345px;
+	height: 66px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-left: 120px;
+	padding-top: 94px;
+	float: left;
+}
+.dog h2{
+	width: 345px;
+	height: 66px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 92px;
+	padding-left: 50px;
+	float: left;
+	
+	
+	
+}
+.dog h3{
+	width: 345px;
+	height: 66px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 89px;
+	padding-left: 41px;
+	float: left;
+}
+
+.gray 
+{
+	background: url(Images/gray.png) no-repeat;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 214px;
+}
+
+.contact{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 460px;
+
+
+}
+.contact h1{
+	font-size: 16px;
+	font-color:#353535;
+	margin: 0px 0px 0px 508px;
+	padding: 100px 0px 0px 0px;
+	padding-top: 102px;
+	font-family: "Segoe UI";
+
+}
+.contact h2{
+	padding-left: 553px;
+
+}
+
+.contact h3{
+	padding-left: 193px;
+	float: left;
+}
+.contact h4{
+	padding-top: 0px;
+	padding-left: 175px;
+	float: left;
+}
+.contact h5{
+	margin:-248px 0px 0px 968px;
+	float: left;
+}
+
+.team{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 330px;
+}
+.team h1{
+	padding-top: 0px;
+	padding-left: 250px;
+	font-size: 16px;
+	font-color:#353535;
+	font-family: "Segoe UI";
+	width: 347px;
+	height :64px;
+	float: left;
+}
+.team h2{
+	padding-top: 0px;
+	padding-left: 6px;
+	font-size: 16px;
+	font-color:#353535;
+	font-family: "Segoe UI";
+	width: 347px;
+	height :64px;
+	float: left;
+}
+.team h3{
+	padding-top: 0px;
+	padding-left: 52px;
+	font-size: 16px;
+	font-color:#353535;
+	font-family: "Segoe UI";
+	width: 347px;
+	height :64px;
+	float: left;
+}
+.team h4{
+	width: 340px;
+	height: 64px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 120px;
+	float: left;
+}
+.team h5{
+	width: 340px;
+	height: 64px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 14px;
+	margin-left: 45px;
+	float: left;
+}
+
+.team h6{
+	width: 340px;
+	height: 64px;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #9FA5AA;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 3px;
+	padding-left: 75px;
+	float: left;
+}
+
+
+.keyboard 
+{
+	background: url(Images/keyboard-bg.jpg) no-repeat;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 468px;
+}
+
+.about {
+	height: 650px;
+	width: 100%;
+	background-color: #F3F5F8;
+	margin-top: -22px;
+}
+.about h1{
+	font-size: 16px;
+	font-color:#353535;
+	margin: 0px 0px 0px 616px;
+	padding: 100px 0px 0px 0px;
+	padding-top: 102px;
+	font-family: "Segoe UI";
+}
+.about p{
+	padding-left: 92px;
+	padding-top: 0px;
+	margin-top: -9px;
+}
+
+.about h2{
+	padding-left: 129px;
+	padding-top: 78px;
+	float: left;
+}
+.about h3{
+	float: left;
+	padding-top: 80px;
+	padding-left: 25px;
+
+}
+.about h4{
+	float: left;
+	padding-top: 77px;
+	padding-left: 25px;
+}
+.about h5{
+	padding-top: 70px;
+	padding-left: 168px;
+}
+.bottom {
+	background-color: #242830;
+	width: 100%;
+	height: 127px;
+}
+.bottom h1{
+	padding-left: 153px;
+	padding-top: 52px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	color: #939AA1;
+	font-size: 15px;
+	text-align: center;
+	float: left;
+}
+.bottom h2{
+	padding-left: 520px;
+	padding-top: 52px;
+	color: #F0F0F1;
+	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-size: 13px;
+	text-align: center;
+	float: left;
+}
